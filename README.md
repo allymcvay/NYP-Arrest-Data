@@ -1,8 +1,9 @@
 # NYP-Arrest-Data
 **Team name and members:**
-Include information about the name of the team based on the team name assigned to the team on
-ELC. Also include the names of all team members as well as links to their corresponding github
-repos that have the project on them.
+Casey Whichard - https://github.com/caseywhichard/Project-2---NYPD-Arrest-Data 
+Sydney Pratt -  https://github.com/scp31975/Project-2-NYPD-Arrest-Data-Year-to-Date 
+Mino Guzman - 
+
 
 **Describing your dataset and what data it contains:**
 Where was it obtained, what are the dimensions of it (rows and columns), what are the various
