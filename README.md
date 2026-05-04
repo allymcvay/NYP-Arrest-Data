@@ -1,5 +1,6 @@
 # NYP-Arrest-Data
 **Team name and members:**
+
 Casey Whichard - https://github.com/caseywhichard/Project-2---NYPD-Arrest-Data 
 
 Sydney Pratt -  https://github.com/scp31975/Project-2-NYPD-Arrest-Data-Year-to-Date 
