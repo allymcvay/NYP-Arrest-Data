@@ -5,7 +5,7 @@ Casey Whichard - https://github.com/caseywhichard/Project-2---NYPD-Arrest-Data
 
 Sydney Pratt -  https://github.com/scp31975/Project-2-NYPD-Arrest-Data-Year-to-Date 
 
-Mino Guzman - 
+Mino Guzman - https://github.com/Mino-Guzman/MIST-4610-Project-Two---NYPD-Arrest-Data
 
 
 ## Describing your dataset and what data it contains:
