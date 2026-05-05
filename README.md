@@ -18,7 +18,7 @@ The NYPD Arrest Data Set was published by the City of New York on Data.gov with 
    
 # Question 1 What is the crime rate for each of the 5 boroughs?
 
-## Tableau Visualizations
+## Tableau Visualization
  <img width="410" height="459" alt="Screenshot 2026-05-04 at 12 41 23 PM" src="https://github.com/user-attachments/assets/d087789b-e3e9-4aca-9a3d-832f309acd9c" />
  
  ## Importance
@@ -32,7 +32,7 @@ The difference between the five boroughs is likely due to many factors such as p
 
  # Question 2 Within the borough with the highest crime, who is committing the most violent vs. nonviolent crimes based on age and gender?
 
- ## Tableau Visualizations
+ ## Tableau Visualization
 <img width="628" height="417" alt="Screenshot 2026-05-04 at 12 41 56 PM" src="https://github.com/user-attachments/assets/9fdf0f90-0c14-4bc4-9b41-dc48a666cb4f" />
 
 ## Importance
